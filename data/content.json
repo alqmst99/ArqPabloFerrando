@@ -1,0 +1,377 @@
+{
+  "site": {
+    "name": {
+      "es": "Arq. Pablo Gabriel Ferrando",
+      "en": "Arch. Pablo Gabriel Ferrando"
+    },
+    "tagline": {
+      "es": "Arquitectura · BIM · Dirección de Obra",
+      "en": "Architecture · BIM · Construction Management"
+    },
+    "email": "arqpabloferrando@gmail.com",
+    "instagram": "https://www.instagram.com/arqpablo.ferrando/",
+    "whatsapp": "https://wa.me/5493420000000",
+    "matricula": "07654",
+    "colegio": "CAUPSF — Colegio de Arquitectos de la Provincia de Santa Fe",
+    "location": {
+      "es": "Santa Fe Capital, Argentina",
+      "en": "Santa Fe Capital, Argentina"
+    },
+    "since": 2007
+  },
+  "nav": {
+    "home": {
+      "es": "Inicio",
+      "en": "Home"
+    },
+    "projects": {
+      "es": "Proyectos",
+      "en": "Projects"
+    },
+    "services": {
+      "es": "Servicios",
+      "en": "Services"
+    },
+    "about": {
+      "es": "El Estudio",
+      "en": "About"
+    },
+    "contact": {
+      "es": "Contacto",
+      "en": "Contact"
+    }
+  },
+  "hero": {
+    "eyebrow": {
+      "es": "Arquitecto · Santa Fe · Desde 2007",
+      "en": "Architect · Santa Fe · Since 2007"
+    },
+    "title": {
+      "es": "Diseño preciso.<br>Obras que <em>permanecen.</em>",
+      "en": "Precise design.<br>Works that <em>endure.</em>"
+    },
+    "desc": {
+      "es": "Proyecto arquitectónico, documentación BIM de alta fidelidad y dirección de obra para residencial premium, vivienda social, comercial e industrial en la región santafesina.",
+      "en": "Architectural design, high-fidelity BIM documentation and construction management for premium residential, social housing, commercial and industrial projects in the Santa Fe region."
+    },
+    "cta_primary": {
+      "es": "Ver proyectos",
+      "en": "View projects"
+    },
+    "cta_secondary": {
+      "es": "Solicitar consulta",
+      "en": "Request consultation"
+    },
+    "stats": [
+      {
+        "num": "18+",
+        "label": {
+          "es": "Años de experiencia",
+          "en": "Years of experience"
+        }
+      },
+      {
+        "num": "15+",
+        "label": {
+          "es": "Obras PRO.CRE.AR",
+          "en": "PRO.CRE.AR works"
+        }
+      },
+      {
+        "num": "BIM",
+        "label": {
+          "es": "Documentación integral",
+          "en": "Full documentation"
+        }
+      }
+    ]
+  },
+  "ticker": {
+    "es": [
+      "Residencial Premium",
+      "Vivienda Social",
+      "Comercial / Corporativo",
+      "Naves Industriales",
+      "Laboratorios",
+      "BIM Archicad",
+      "Dirección de Obra",
+      "Renders Fotorrealistas"
+    ],
+    "en": [
+      "Premium Residential",
+      "Social Housing",
+      "Commercial / Corporate",
+      "Industrial Buildings",
+      "Laboratories",
+      "BIM Archicad",
+      "Construction Management",
+      "Photorealistic Renders"
+    ]
+  },
+  "intro": {
+    "headline": {
+      "es": "Arquitectura que integra <strong>gestión de obra</strong> y maquetas virtuales de alta precisión.",
+      "en": "Architecture that integrates <strong>site management</strong> with high-precision virtual models."
+    },
+    "body": {
+      "es": "Desde 2007 desarrollo proyectos en Santa Fe Capital y el Gran Santa Fe, combinando el control tradicional de obra con flujos BIM (Archicad, Autocad) y visualización avanzada (D5 Render, Lumion, Artlantis). Trabajo en residencial de barrios privados, vivienda social bajo PRO.CRE.AR, oficinas, edificios de departamentos, naves industriales y laboratorios.",
+      "en": "Since 2007 I develop projects in Santa Fe Capital and Greater Santa Fe, combining traditional construction control with BIM workflows (Archicad, Autocad) and advanced visualization (D5 Render, Lumion, Artlantis). Work spans private-neighborhood residential, social housing under PRO.CRE.AR, offices, mid-scale apartment buildings, industrial sheds and laboratories."
+    }
+  },
+  "services": [
+    {
+      "id": "proyecto",
+      "number": "01",
+      "title": {
+        "es": "Proyecto Arquitectónico",
+        "en": "Architectural Design"
+      },
+      "desc": {
+        "es": "Diseño conceptual, legajos técnicos, desarrollo ejecutivo y tramitaciones municipales. Documentación completa lista para ejecución.",
+        "en": "Conceptual design, technical dossiers, executive development and municipal procedures. Complete documentation ready for construction."
+      }
+    },
+    {
+      "id": "direccion",
+      "number": "02",
+      "title": {
+        "es": "Dirección de Obra",
+        "en": "Construction Management"
+      },
+      "desc": {
+        "es": "Gestión en territorio, control de contratistas, auditoría de materiales, cómputo y presupuesto. Seguimiento riguroso hasta la entrega.",
+        "en": "On-site management, contractor control, material audits, quantity take-off and budgeting. Rigorous follow-up until handover."
+      }
+    },
+    {
+      "id": "bim",
+      "number": "03",
+      "title": {
+        "es": "Servicios BIM para Terceros",
+        "en": "BIM Services for Third Parties"
+      },
+      "desc": {
+        "es": "Outsourcing de maquetas virtuales, documentación paramétrica y renders de alta fidelidad para estudios de arquitectura y empresas constructoras.",
+        "en": "Outsourcing of virtual models, parametric documentation and high-fidelity renders for architecture firms and construction companies."
+      }
+    },
+    {
+      "id": "visualizacion",
+      "number": "04",
+      "title": {
+        "es": "Visualización & Renders",
+        "en": "Visualization & Renders"
+      },
+      "desc": {
+        "es": "Entornos fotorrealistas y animaciones con D5 Render, Lumion y Artlantis para presentación de proyectos y marketing inmobiliario.",
+        "en": "Photorealistic environments and animations with D5 Render, Lumion and Artlantis for project presentation and real-estate marketing."
+      }
+    }
+  ],
+  "about": {
+    "title": {
+      "es": "El profesional",
+      "en": "The professional"
+    },
+    "lead": {
+      "es": "Arquitecto matriculado (07654 — CAUPSF) con actividad ininterrumpida desde enero de 2007 en Santa Fe Capital.",
+      "en": "Licensed architect (07654 — CAUPSF) with continuous practice since January 2007 in Santa Fe Capital."
+    },
+    "body": {
+      "es": "Mi práctica se caracteriza por la integración de la gestión tradicional de obras con flujos de trabajo basados en maquetas virtuales de alta precisión. Especializado en sistemas BIM para la documentación integral y el diseño paramétrico. Operador avanzado de Archicad y Autocad; visualización con D5 Render, Lumion y Artlantis.\n\nLa experiencia abarca residencial premium en barrios privados (Aires del Llano, Los Molinos, Dos Lagunas), más de 15 obras de vivienda social bajo PRO.CRE.AR, infraestructura comercial y corporativa, y arquitectura industrial (naves y laboratorios con normativas específicas de seguridad y zonificación).",
+      "en": "My practice is defined by the integration of traditional construction management with high-precision virtual model workflows. Specialized in BIM systems for comprehensive documentation and parametric design. Advanced operator of Archicad and Autocad; visualization with D5 Render, Lumion and Artlantis.\n\nExperience covers premium residential in private neighborhoods (Aires del Llano, Los Molinos, Dos Lagunas), more than 15 social-housing works under PRO.CRE.AR, commercial and corporate infrastructure, and industrial architecture (sheds and laboratories requiring specific safety and zoning regulations)."
+    },
+    "tools": [
+      "Archicad",
+      "Autocad",
+      "BIM",
+      "D5 Render",
+      "Lumion",
+      "Artlantis"
+    ]
+  },
+  "contact": {
+    "title": {
+      "es": "Hablemos de tu proyecto",
+      "en": "Let's talk about your project"
+    },
+    "subtitle": {
+      "es": "Cuéntame qué necesitás. Respondo a consultas de proyecto, dirección de obra y servicios BIM.",
+      "en": "Tell me what you need. I reply to project, construction management and BIM service inquiries."
+    },
+    "form": {
+      "name": {
+        "es": "Nombre completo",
+        "en": "Full name"
+      },
+      "email": {
+        "es": "Email",
+        "en": "Email"
+      },
+      "phone": {
+        "es": "Teléfono / WhatsApp",
+        "en": "Phone / WhatsApp"
+      },
+      "type": {
+        "es": "Tipo de consulta",
+        "en": "Inquiry type"
+      },
+      "types": [
+        {
+          "value": "proyecto",
+          "es": "Proyecto arquitectónico nuevo",
+          "en": "New architectural project"
+        },
+        {
+          "value": "direccion",
+          "es": "Dirección de obra",
+          "en": "Construction management"
+        },
+        {
+          "value": "bim",
+          "es": "Servicios BIM / Renders",
+          "en": "BIM / Render services"
+        },
+        {
+          "value": "otro",
+          "es": "Otra consulta",
+          "en": "Other inquiry"
+        }
+      ],
+      "message": {
+        "es": "Contame sobre el proyecto o necesidad",
+        "en": "Tell me about the project or need"
+      },
+      "submit": {
+        "es": "Enviar consulta",
+        "en": "Send inquiry"
+      },
+      "success": {
+        "es": "Consulta enviada. Te responderé a la brevedad.",
+        "en": "Inquiry sent. I will reply shortly."
+      }
+    },
+    "whatsapp_label": {
+      "es": "Escribir por WhatsApp",
+      "en": "Message on WhatsApp"
+    },
+    "email_label": {
+      "es": "Escribir por email",
+      "en": "Write by email"
+    }
+  },
+  "footer": {
+    "brand_desc": {
+      "es": "Arquitectura, documentación BIM y dirección de obra en Santa Fe. Diseño preciso y obras que permanecen.",
+      "en": "Architecture, BIM documentation and construction management in Santa Fe. Precise design and works that endure."
+    },
+    "nav_title": {
+      "es": "Navegación",
+      "en": "Navigation"
+    },
+    "legal_title": {
+      "es": "Legal",
+      "en": "Legal"
+    },
+    "contact_title": {
+      "es": "Contacto",
+      "en": "Contact"
+    },
+    "privacy": {
+      "es": "Política de privacidad",
+      "en": "Privacy Policy"
+    },
+    "terms": {
+      "es": "Términos y condiciones",
+      "en": "Terms & Conditions"
+    },
+    "rights": {
+      "es": "© 2026 Arq. Pablo Gabriel Ferrando — Todos los derechos reservados.",
+      "en": "© 2026 Arch. Pablo Gabriel Ferrando — All rights reserved."
+    },
+    "matricula": {
+      "es": "Matrícula profesional 07654 — CAUPSF",
+      "en": "Professional license 07654 — CAUPSF"
+    },
+    "location": {
+      "es": "Santa Fe Capital, Argentina",
+      "en": "Santa Fe Capital, Argentina"
+    }
+  },
+  "projects_page": {
+    "title": {
+      "es": "Proyectos",
+      "en": "Projects"
+    },
+    "subtitle": {
+      "es": "Selección de obras y tipologías desarrolladas en la región santafesina.",
+      "en": "Selection of works and typologies developed in the Santa Fe region."
+    },
+    "filter_all": {
+      "es": "Todos",
+      "en": "All"
+    },
+    "filters": {
+      "all": {
+        "es": "Todos",
+        "en": "All"
+      },
+      "residencial": {
+        "es": "Residencial",
+        "en": "Residential"
+      },
+      "social": {
+        "es": "Social",
+        "en": "Social"
+      },
+      "comercial": {
+        "es": "Comercial",
+        "en": "Commercial"
+      },
+      "industrial": {
+        "es": "Industrial",
+        "en": "Industrial"
+      }
+    }
+  },
+  "project_detail": {
+    "back": {
+      "es": "Volver a proyectos",
+      "en": "Back to projects"
+    },
+    "year": {
+      "es": "Año",
+      "en": "Year"
+    },
+    "location": {
+      "es": "Ubicación",
+      "en": "Location"
+    },
+    "type": {
+      "es": "Tipología",
+      "en": "Typology"
+    },
+    "scope": {
+      "es": "Alcance",
+      "en": "Scope"
+    },
+    "cta": {
+      "es": "Consultar sobre un proyecto similar",
+      "en": "Inquire about a similar project"
+    }
+  },
+  "legal": {
+    "privacy_title": {
+      "es": "Política de privacidad",
+      "en": "Privacy Policy"
+    },
+    "terms_title": {
+      "es": "Términos y condiciones",
+      "en": "Terms & Conditions"
+    },
+    "updated": {
+      "es": "Última actualización: octubre 2026",
+      "en": "Last updated: October 2026"
+    }
+  }
+}

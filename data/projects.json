@@ -1,0 +1,287 @@
+[
+  {
+    "id": "aires-del-llano",
+    "slug": "aires-del-llano",
+    "title": {
+      "es": "Residencia Aires del Llano",
+      "en": "Aires del Llano Residence"
+    },
+    "type": {
+      "es": "Residencial Premium",
+      "en": "Premium Residential"
+    },
+    "location": {
+      "es": "Barrio Aires del Llano, Gran Santa Fe",
+      "en": "Aires del Llano neighborhood, Greater Santa Fe"
+    },
+    "year": 2022,
+    "featured": true,
+    "tags": [
+      "residencial",
+      "premium",
+      "bim"
+    ],
+    "cover": "assets/images/indiv-DT6LftFgQQ8EB0Lsifsdcqe3qbu-kQfAOQL8CE0.jpg",
+    "images": [
+      "assets/images/indiv-DT6LftFgQQ8EB0Lsifsdcqe3qbu-kQfAOQL8CE0.jpg",
+      "assets/images/carrusel-DRyEovYjTB7Conoo6R3B90iXFrR7gIswR52B4M0-01.jpg",
+      "assets/images/carrusel-DRyEovYjTB7Conoo6R3B90iXFrR7gIswR52B4M0-02.jpg"
+    ],
+    "summary": {
+      "es": "Vivienda unifamiliar en barrio privado. Proyecto ejecutivo completo, documentación BIM y dirección de obra.",
+      "en": "Single-family home in a private neighborhood. Full executive project, BIM documentation and construction management."
+    },
+    "description": {
+      "es": "Desarrollo de vivienda premium en Aires del Llano. Se trabajó con maqueta virtual Archicad para coordinación de especialidades, cómputos precisos y renders de presentación. Dirección de obra con control de contratistas y materiales.",
+      "en": "Premium home development in Aires del Llano. Archicad virtual model used for discipline coordination, accurate quantity take-offs and presentation renders. Construction management with contractor and material control."
+    }
+  },
+  {
+    "id": "los-molinos",
+    "slug": "los-molinos",
+    "title": {
+      "es": "Casa Los Molinos",
+      "en": "Los Molinos House"
+    },
+    "type": {
+      "es": "Residencial Premium",
+      "en": "Premium Residential"
+    },
+    "location": {
+      "es": "Barrio Los Molinos, Gran Santa Fe",
+      "en": "Los Molinos neighborhood, Greater Santa Fe"
+    },
+    "year": 2021,
+    "featured": true,
+    "tags": [
+      "residencial",
+      "premium"
+    ],
+    "cover": "assets/images/indiv-DR548B0DQDI-Mmtg3ptfIwmW6jsqj3n92jOGSQ0.jpg",
+    "images": [
+      "assets/images/indiv-DR548B0DQDI-Mmtg3ptfIwmW6jsqj3n92jOGSQ0.jpg",
+      "assets/images/carrusel-DRQKzYHgQ1fR3tcL7d4vFLrdoQrIxNX_GgC_PA0-01.jpg",
+      "assets/images/carrusel-DRQKzYHgQ1fR3tcL7d4vFLrdoQrIxNX_GgC_PA0-02.jpg"
+    ],
+    "summary": {
+      "es": "Intervención residencial de alta calidad con énfasis en integración paisaje-arquitectura.",
+      "en": "High-quality residential intervention with emphasis on landscape-architecture integration."
+    },
+    "description": {
+      "es": "Proyecto y dirección de obra de vivienda en Los Molinos. Documentación técnica completa y visualizaciones fotorrealistas para el cliente.",
+      "en": "Design and construction management of a house in Los Molinos. Complete technical documentation and photorealistic visualizations for the client."
+    }
+  },
+  {
+    "id": "dos-lagunas",
+    "slug": "dos-lagunas",
+    "title": {
+      "es": "Proyecto Dos Lagunas",
+      "en": "Dos Lagunas Project"
+    },
+    "type": {
+      "es": "Residencial Premium",
+      "en": "Premium Residential"
+    },
+    "location": {
+      "es": "Barrio Dos Lagunas, Gran Santa Fe",
+      "en": "Dos Lagunas neighborhood, Greater Santa Fe"
+    },
+    "year": 2023,
+    "featured": true,
+    "tags": [
+      "residencial",
+      "premium",
+      "bim"
+    ],
+    "cover": "assets/images/indiv-DT6HCzvARVaQYEJTjdAKy40zwPN_VDVNEgMZG40.jpg",
+    "images": [
+      "assets/images/indiv-DT6HCzvARVaQYEJTjdAKy40zwPN_VDVNEgMZG40.jpg",
+      "assets/images/carrusel-DSoDoegDeXHpUxbi-YGgQIKEnWyvF8D2t9FX6w0-01.jpg",
+      "assets/images/carrusel-DSoDoegDeXHpUxbi-YGgQIKEnWyvF8D2t9FX6w0-02.jpg"
+    ],
+    "summary": {
+      "es": "Vivienda contemporánea en entorno de barrio cerrado. Diseño paramétrico y coordinación BIM.",
+      "en": "Contemporary home in a gated community setting. Parametric design and BIM coordination."
+    },
+    "description": {
+      "es": "Desarrollo integral desde el anteproyecto hasta la documentación ejecutiva y seguimiento de obra. Uso intensivo de Archicad para maqueta virtual y extracción de planos.",
+      "en": "Full development from schematic design through executive documentation and site follow-up. Intensive use of Archicad for the virtual model and drawing extraction."
+    }
+  },
+  {
+    "id": "procrear-viviendas",
+    "slug": "procrear-viviendas",
+    "title": {
+      "es": "Viviendas PRO.CRE.AR",
+      "en": "PRO.CRE.AR Housing"
+    },
+    "type": {
+      "es": "Vivienda Social",
+      "en": "Social Housing"
+    },
+    "location": {
+      "es": "Santa Fe y zona de influencia",
+      "en": "Santa Fe and surrounding area"
+    },
+    "year": 2018,
+    "featured": true,
+    "tags": [
+      "social",
+      "procrear"
+    ],
+    "cover": "assets/images/indiv-DG_xn3kSvzWwJFd6NSGBU2UuhiJzzb131-zfwo0.jpg",
+    "images": [
+      "assets/images/indiv-DG_xn3kSvzWwJFd6NSGBU2UuhiJzzb131-zfwo0.jpg",
+      "assets/images/carrusel-DR8ChGjAVIeHvAgFomQOfjPYeRJ23H3THNxcVQ0-01.jpg",
+      "assets/images/carrusel-DR8ChGjAVIeHvAgFomQOfjPYeRJ23H3THNxcVQ0-02.jpg"
+    ],
+    "summary": {
+      "es": "Más de 15 obras particulares bajo el programa estatal PRO.CRE.AR: planificación técnica, cómputos y dirección.",
+      "en": "More than 15 individual works under the state PRO.CRE.AR program: technical planning, quantity take-offs and management."
+    },
+    "description": {
+      "es": "Gestión técnica integral de viviendas sociales: desarrollo de legajos, cómputo métrico, presupuesto y dirección de obra conforme a los requisitos del programa PRO.CRE.AR.",
+      "en": "Comprehensive technical management of social housing: dossier development, quantity surveying, budgeting and construction management according to PRO.CRE.AR program requirements."
+    }
+  },
+  {
+    "id": "nave-industrial",
+    "slug": "nave-industrial",
+    "title": {
+      "es": "Nave Industrial",
+      "en": "Industrial Shed"
+    },
+    "type": {
+      "es": "Arquitectura Industrial",
+      "en": "Industrial Architecture"
+    },
+    "location": {
+      "es": "Provincia de Santa Fe",
+      "en": "Santa Fe Province"
+    },
+    "year": 2020,
+    "featured": false,
+    "tags": [
+      "industrial",
+      "nave"
+    ],
+    "cover": "assets/images/carrusel-DRnpcT5ARfFiXKAUENtoVfpHIiAzDkxClYphzc0-01.jpg",
+    "images": [
+      "assets/images/carrusel-DRnpcT5ARfFiXKAUENtoVfpHIiAzDkxClYphzc0-01.jpg",
+      "assets/images/carrusel-DRnpcT5ARfFiXKAUENtoVfpHIiAzDkxClYphzc0-02.jpg"
+    ],
+    "summary": {
+      "es": "Diseño, cálculo y dirección técnica de nave industrial con normativas de seguridad y zonificación.",
+      "en": "Design, calculation and technical direction of an industrial shed with safety and zoning regulations."
+    },
+    "description": {
+      "es": "Proyecto de nave industrial que exige cumplimiento de normativas específicas de seguridad, estructuras y zonificación industrial. Documentación técnica y dirección de obra.",
+      "en": "Industrial shed project requiring compliance with specific safety, structural and industrial zoning regulations. Technical documentation and construction management."
+    }
+  },
+  {
+    "id": "laboratorio",
+    "slug": "laboratorio",
+    "title": {
+      "es": "Laboratorio Industrial",
+      "en": "Industrial Laboratory"
+    },
+    "type": {
+      "es": "Arquitectura Industrial",
+      "en": "Industrial Architecture"
+    },
+    "location": {
+      "es": "Santa Fe",
+      "en": "Santa Fe"
+    },
+    "year": 2019,
+    "featured": false,
+    "tags": [
+      "industrial",
+      "laboratorio"
+    ],
+    "cover": "assets/images/carrusel-DRiG-3_gYC2otBUylb3lvI8yiROKWiNY1PQ5CU0-01.jpg",
+    "images": [
+      "assets/images/carrusel-DRiG-3_gYC2otBUylb3lvI8yiROKWiNY1PQ5CU0-01.jpg",
+      "assets/images/carrusel-DRiG-3_gYC2otBUylb3lvI8yiROKWiNY1PQ5CU0-02.jpg"
+    ],
+    "summary": {
+      "es": "Diseño especializado de laboratorio con requerimientos técnicos y de seguridad específicos.",
+      "en": "Specialized laboratory design with specific technical and safety requirements."
+    },
+    "description": {
+      "es": "Arquitectura para laboratorio industrial: distribución funcional, instalaciones especiales y cumplimiento normativo. Documentación y dirección técnica.",
+      "en": "Architecture for an industrial laboratory: functional layout, special installations and regulatory compliance. Documentation and technical direction."
+    }
+  },
+  {
+    "id": "oficinas-comerciales",
+    "slug": "oficinas-comerciales",
+    "title": {
+      "es": "Oficinas Comerciales",
+      "en": "Commercial Offices"
+    },
+    "type": {
+      "es": "Comercial / Corporativo",
+      "en": "Commercial / Corporate"
+    },
+    "location": {
+      "es": "Santa Fe Capital",
+      "en": "Santa Fe Capital"
+    },
+    "year": 2021,
+    "featured": false,
+    "tags": [
+      "comercial",
+      "oficinas"
+    ],
+    "cover": "assets/images/carrusel-DRQKzYHgQ1fR3tcL7d4vFLrdoQrIxNX_GgC_PA0-01.jpg",
+    "images": [
+      "assets/images/carrusel-DRQKzYHgQ1fR3tcL7d4vFLrdoQrIxNX_GgC_PA0-01.jpg"
+    ],
+    "summary": {
+      "es": "Desarrollo de infraestructura para oficinas comerciales de media escala.",
+      "en": "Development of infrastructure for mid-scale commercial offices."
+    },
+    "description": {
+      "es": "Proyecto de oficinas comerciales: layout eficiente, documentación ejecutiva y coordinación de gremios.",
+      "en": "Commercial offices project: efficient layout, executive documentation and trade coordination."
+    }
+  },
+  {
+    "id": "edificio-departamentos",
+    "slug": "edificio-departamentos",
+    "title": {
+      "es": "Edificio de Departamentos",
+      "en": "Apartment Building"
+    },
+    "type": {
+      "es": "Comercial / Corporativo",
+      "en": "Commercial / Corporate"
+    },
+    "location": {
+      "es": "Gran Santa Fe",
+      "en": "Greater Santa Fe"
+    },
+    "year": 2020,
+    "featured": false,
+    "tags": [
+      "comercial",
+      "departamentos"
+    ],
+    "cover": "assets/images/carrusel-DRyEovYjTB7Conoo6R3B90iXFrR7gIswR52B4M0-01.jpg",
+    "images": [
+      "assets/images/carrusel-DRyEovYjTB7Conoo6R3B90iXFrR7gIswR52B4M0-01.jpg",
+      "assets/images/carrusel-DRyEovYjTB7Conoo6R3B90iXFrR7gIswR52B4M0-02.jpg"
+    ],
+    "summary": {
+      "es": "Bloque de departamentos de media escala. Proyecto y documentación técnica.",
+      "en": "Mid-scale apartment block. Design and technical documentation."
+    },
+    "description": {
+      "es": "Desarrollo de edificio de departamentos: proyecto arquitectónico, legajos municipales y seguimiento de obra.",
+      "en": "Apartment building development: architectural design, municipal dossiers and site follow-up."
+    }
+  }
+]

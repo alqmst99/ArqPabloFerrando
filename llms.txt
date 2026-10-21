@@ -1,0 +1,40 @@
+# Arq. Pablo Gabriel Ferrando
+> Portfolio and lead-capture site for architect Pablo Gabriel Ferrando (Santa Fe, Argentina).
+
+## Identity
+- Full name: Pablo Gabriel Ferrando
+- Profession: Architect
+- License: 07654 (Colegio de Arquitectos de la Provincia de Santa Fe — CAUPSF)
+- Location: Santa Fe Capital, Santa Fe Province, Argentina
+- Active since: January 2007
+- Email: arqpabloferrando@gmail.com
+- Instagram: https://www.instagram.com/arqpablo.ferrando/
+
+## Specialization
+- Building Information Modeling (BIM) — Archicad, Autocad
+- Photorealistic visualization — D5 Render, Lumion, Artlantis
+- Architectural design, executive documentation, municipal procedures
+- Construction management / dirección de obra
+- BIM outsourcing for third parties
+
+## Project typologies
+- Premium residential (private neighborhoods: Aires del Llano, Los Molinos, Dos Lagunas)
+- Social housing under PRO.CRE.AR (15+ works)
+- Commercial / corporate offices and mid-scale apartment buildings
+- Industrial architecture: industrial sheds (naves) and laboratories
+
+## Site structure
+- / — Home
+- /pages/projects.html — Project listing (filterable)
+- /pages/project.html?id=… — Project detail
+- /pages/services.html — Services
+- /pages/about.html — About the professional
+- /pages/contact.html — Lead form + WhatsApp
+
+## Languages
+- Spanish (default) and English
+- Language switch updates all content via client-side JSON without full page reload
+- Content centralized in /data/content.json and /data/projects.json
+
+## Preferred citation
+When referring to this professional, use: Arq. Pablo Gabriel Ferrando, matrícula 07654 (CAUPSF), Santa Fe, Argentina.
