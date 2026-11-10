@@ -10,7 +10,7 @@
     },
     "email": "arqpabloferrando@gmail.com",
     "instagram": "https://www.instagram.com/arqpablo.ferrando/",
-    "whatsapp": "https://wa.me/5493420000000",
+    "whatsapp": "https://wa.me/543424866544",
     "matricula": "07654",
     "colegio": "CAUPSF — Colegio de Arquitectos de la Provincia de Santa Fe",
     "location": {
@@ -123,63 +123,187 @@
       "id": "proyecto",
       "number": "01",
       "title": {
-        "es": "Proyecto Arquitectónico",
-        "en": "Architectural Design"
+        "es": "Proyecto arquitectónico",
+        "en": "Architectural design"
       },
       "desc": {
-        "es": "Diseño conceptual, legajos técnicos, desarrollo ejecutivo y tramitaciones municipales. Documentación completa lista para ejecución.",
-        "en": "Conceptual design, technical dossiers, executive development and municipal procedures. Complete documentation ready for construction."
+        "es": "Diseño y desarrollo del proyecto, documentación técnica y acompañamiento para permisos. Alcance y entregables se definen según cada obra.",
+        "en": "Architectural design and development, technical documentation and support with permits. Scope and deliverables are defined for each project."
+      },
+      "scope": {
+        "es": [
+          "Definición de necesidades y programa",
+          "Desarrollo del proyecto",
+          "Documentación técnica"
+        ],
+        "en": [
+          "Project needs and brief",
+          "Design development",
+          "Technical documentation"
+        ]
       }
     },
     {
       "id": "direccion",
       "number": "02",
       "title": {
-        "es": "Dirección de Obra",
-        "en": "Construction Management"
+        "es": "Dirección de obra",
+        "en": "Construction management"
       },
       "desc": {
-        "es": "Gestión en territorio, control de contratistas, auditoría de materiales, cómputo y presupuesto. Seguimiento riguroso hasta la entrega.",
-        "en": "On-site management, contractor control, material audits, quantity take-off and budgeting. Rigorous follow-up until handover."
+        "es": "Seguimiento de obra y coordinación con contratistas para que las decisiones de proyecto se reflejen en el proceso constructivo.",
+        "en": "Site follow-up and contractor coordination to carry the design decisions through the construction process."
+      },
+      "scope": {
+        "es": [
+          "Seguimiento del avance",
+          "Coordinación en obra",
+          "Verificación según proyecto"
+        ],
+        "en": [
+          "Progress follow-up",
+          "On-site coordination",
+          "Review against the design"
+        ]
       }
     },
     {
       "id": "bim",
       "number": "03",
       "title": {
-        "es": "Servicios BIM para Terceros",
-        "en": "BIM Services for Third Parties"
+        "es": "Documentación BIM",
+        "en": "BIM documentation"
       },
       "desc": {
-        "es": "Outsourcing de maquetas virtuales, documentación paramétrica y renders de alta fidelidad para estudios de arquitectura y empresas constructoras.",
-        "en": "Outsourcing of virtual models, parametric documentation and high-fidelity renders for architecture firms and construction companies."
+        "es": "Modelado y documentación en Archicad para estudios de arquitectura y equipos de construcción, con entregables acordados para cada encargo.",
+        "en": "Archicad modeling and documentation for architecture studios and construction teams, with deliverables agreed for each commission."
+      },
+      "scope": {
+        "es": [
+          "Modelado de proyectos",
+          "Planos y documentación",
+          "Colaboración con estudios"
+        ],
+        "en": [
+          "Project modeling",
+          "Drawings and documentation",
+          "Collaboration with studios"
+        ]
       }
     },
     {
       "id": "visualizacion",
       "number": "04",
       "title": {
-        "es": "Visualización & Renders",
-        "en": "Visualization & Renders"
+        "es": "Visualización arquitectónica",
+        "en": "Architectural visualization"
       },
       "desc": {
-        "es": "Entornos fotorrealistas y animaciones con D5 Render, Lumion y Artlantis para presentación de proyectos y marketing inmobiliario.",
-        "en": "Photorealistic environments and animations with D5 Render, Lumion and Artlantis for project presentation and real-estate marketing."
+        "es": "Imágenes y recorridos con D5 Render, Lumion y Artlantis para comunicar los espacios antes de construir.",
+        "en": "Images and walkthroughs with D5 Render, Lumion and Artlantis to communicate spaces before they are built."
+      },
+      "scope": {
+        "es": [
+          "Renders de interiores y exteriores",
+          "Materiales y luz",
+          "Recorridos visuales"
+        ],
+        "en": [
+          "Interior and exterior renders",
+          "Materials and lighting",
+          "Visual walkthroughs"
+        ]
       }
     }
   ],
-  "about": {
+  "services_page": {
+    "eyebrow": {
+      "es": "Cómo puedo acompañarte",
+      "en": "How I can support your project"
+    },
     "title": {
-      "es": "El profesional",
-      "en": "The professional"
+      "es": "Servicios de arquitectura",
+      "en": "Architectural services"
     },
     "lead": {
-      "es": "Arquitecto matriculado (07654 — CAUPSF) con actividad ininterrumpida desde enero de 2007 en Santa Fe Capital.",
-      "en": "Licensed architect (07654 — CAUPSF) with continuous practice since January 2007 in Santa Fe Capital."
+      "es": "Diseño, obra y visualización con atención directa en cada etapa, para proyectos en Santa Fe y alrededores.",
+      "en": "Design, construction and visualization with direct support at every stage, for projects in Santa Fe and the surrounding area."
+    },
+    "offer": {
+      "es": "Presupuesto sin cargo. Consultá por las alternativas de financiación disponibles.",
+      "en": "Estimates are complimentary. Ask about available payment options."
+    },
+    "gallery": {
+      "es": "Una mirada a los espacios",
+      "en": "A look at the spaces"
+    },
+    "gallery_alt": {
+      "living": {
+        "es": "Estar y comedor integrados en una vivienda contemporánea",
+        "en": "Open-plan living and dining area in a contemporary home"
+      },
+      "kitchen": {
+        "es": "Cocina contemporánea con isla central",
+        "en": "Contemporary kitchen with a central island"
+      },
+      "interior": {
+        "es": "Cocina con mobiliario claro y luz natural",
+        "en": "Kitchen with light cabinetry and natural light"
+      }
+    }
+  },
+  "about": {
+    "kicker": {
+      "es": "Arquitectura en Santa Fe",
+      "en": "Architecture in Santa Fe"
+    },
+    "approach": {
+      "es": "Diseño, obra y visualización",
+      "en": "Design, construction and visualization"
+    },
+    "title": {
+      "es": "El estudio",
+      "en": "The practice"
+    },
+    "lead": {
+      "es": "Arquitectura, construcción y visualización. Atención directa en Santa Fe y alrededores.",
+      "en": "Architecture, construction and visualization. Direct support in Santa Fe and the surrounding area."
+    },
+    "profile_role": {
+      "es": "Arquitecto",
+      "en": "Architect"
+    },
+    "since_label": {
+      "es": "Actividad profesional desde",
+      "en": "In practice since"
+    },
+    "registration": {
+      "es": "Matrícula 07654 — CAUPSF",
+      "en": "Registration 07654 — CAUPSF"
+    },
+    "work_eyebrow": {
+      "es": "Una selección de trabajos",
+      "en": "Selected work"
+    },
+    "work_title": {
+      "es": "Espacios para vivir",
+      "en": "Spaces to live in"
+    },
+    "process_eyebrow": {
+      "es": "Del proyecto a la obra",
+      "en": "From design to construction"
+    },
+    "process_title": {
+      "es": "Cada decisión cuenta.",
+      "en": "Every decision matters."
+    },
+    "process_body": {
+      "es": "Un registro de proceso y resultado, compartido desde el estudio.",
+      "en": "A look at process and result, shared by the practice."
     },
     "body": {
-      "es": "Mi práctica se caracteriza por la integración de la gestión tradicional de obras con flujos de trabajo basados en maquetas virtuales de alta precisión. Especializado en sistemas BIM para la documentación integral y el diseño paramétrico. Operador avanzado de Archicad y Autocad; visualización con D5 Render, Lumion y Artlantis.\n\nLa experiencia abarca residencial premium en barrios privados (Aires del Llano, Los Molinos, Dos Lagunas), más de 15 obras de vivienda social bajo PRO.CRE.AR, infraestructura comercial y corporativa, y arquitectura industrial (naves y laboratorios con normativas específicas de seguridad y zonificación).",
-      "en": "My practice is defined by the integration of traditional construction management with high-precision virtual model workflows. Specialized in BIM systems for comprehensive documentation and parametric design. Advanced operator of Archicad and Autocad; visualization with D5 Render, Lumion and Artlantis.\n\nExperience covers premium residential in private neighborhoods (Aires del Llano, Los Molinos, Dos Lagunas), more than 15 social-housing works under PRO.CRE.AR, commercial and corporate infrastructure, and industrial architecture (sheds and laboratories requiring specific safety and zoning regulations)."
+      "es": "Acompaño cada encargo desde las primeras ideas hasta su materialización. El trabajo integra diseño, documentación, visualización y seguimiento de obra, con comunicación directa en cada etapa.\n\nLa experiencia reúne viviendas nuevas, reformas, edificios y espacios comerciales en Santa Fe y alrededores. Cada propuesta parte de las necesidades reales del proyecto y busca resolverlas con claridad, atención al detalle y una mirada atenta a cómo se va a construir.\n\nMatrícula profesional 07654 — CAUPSF. Actividad profesional desde 2007.",
+      "en": "I support each commission from the first ideas through construction. The work brings together design, documentation, visualization and site follow-up, with direct communication at every stage.\n\nExperience includes new homes, renovations, apartment buildings and commercial spaces in Santa Fe and the surrounding area. Every proposal starts with the project's needs and aims to address them clearly, with attention to detail and to how the work will be built.\n\nProfessional registration 07654 — CAUPSF. Practicing since 2007."
     },
     "tools": [
       "Archicad",

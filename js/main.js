@@ -39,14 +39,25 @@
     btn.addEventListener('click', function () {
       var open = menu.classList.toggle('open');
       btn.classList.toggle('open', open);
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
       document.body.style.overflow = open ? 'hidden' : '';
     });
     menu.querySelectorAll('a').forEach(function (link) {
       link.addEventListener('click', function () {
         menu.classList.remove('open');
         btn.classList.remove('open');
+        btn.setAttribute('aria-expanded', 'false');
         document.body.style.overflow = '';
       });
+    });
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && menu.classList.contains('open')) {
+        menu.classList.remove('open');
+        btn.classList.remove('open');
+        btn.setAttribute('aria-expanded', 'false');
+        document.body.style.overflow = '';
+        btn.focus();
+      }
     });
   }
 
