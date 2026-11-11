@@ -94,7 +94,7 @@
 /* Responsive */
 @media (max-width: 900px) {
   .hero-float-track {
-    display: block;
+    display: none;
     width: 100%;
     opacity: 0.45;
   }
